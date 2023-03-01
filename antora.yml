@@ -1,6 +1,6 @@
 name: ivorysql-doc
 title: IvorySQL
-version: 2.1
+version: 1.5
 start_page: welcome.adoc
 asciidoc:
   attributes:
