@@ -12,8 +12,4 @@ student_pid int);
 select student_id,student_name from students group by student_id;
 ERROR:  column "students.student_name" must appear in the GROUP BY clause or be used in an aggregate function
 ```
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
+
