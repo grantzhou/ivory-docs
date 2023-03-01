@@ -9,3 +9,7 @@
 ** xref:compatibility-features-lists/union.adoc[]
 ** xref:compatibility-features-lists/minus.adoc[]
 ** xref:compatibility-features-lists/escape-character.adoc[]
+* Global Unique Index
+** xref:global-unique-index-feature/create_global_unique_index.adoc[]
+** xref:global-unique-index-feature/attach_and_detach.adoc[]
+** xref:global-unique-index-feature/insert_and_update.adoc[]
