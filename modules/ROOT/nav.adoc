@@ -1,0 +1,11 @@
+* xref:welcome.adoc[]
+* Compatibility Features
+** xref:compatibility-features-lists/parameter_settings.adoc[]
+** xref:compatibility-features-lists/package.adoc[]
+** xref:compatibility-features-lists/alter_table.adoc[]
+** xref:compatibility-features-lists/delete_table.adoc[]
+** xref:compatibility-features-lists/update_table.adoc[]
+** xref:compatibility-features-lists/groupby.adoc[]
+** xref:compatibility-features-lists/union.adoc[]
+** xref:compatibility-features-lists/minus.adoc[]
+** xref:compatibility-features-lists/escape-character.adoc[]
